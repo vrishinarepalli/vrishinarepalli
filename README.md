@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Vrishin
 
-<!--
-**vrishinarepalli/vrishinarepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at **Purdue University** (Machine Intelligence concentration, Math minor) — graduating Spring 2026.
 
-Here are some ideas to get you started:
+Currently an **AI Engineering Intern** at Nexus / Endal and a **Software Engineer** at Vyts Inc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** Python, Java, C, C++, JavaScript, SQL
+
+**Web:** React, Tailwind CSS, HTML/CSS, REST APIs, Firebase, PostgreSQL
+
+**AI/ML:** LLM APIs, Prompt Engineering, Agentic Workflows, Machine Learning
+
+**Tools:** Git, Unit Testing, Jupyter, Matplotlib
+
+## What I'm Working On
+
+- Building AI-powered tools that process documents and generate structured outputs
+- Full-stack web development with React and Firebase
+- Accessibility research — Chrome extension for scam detection aimed at senior citizens
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrishin-arepalli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vrishinarepallirao@gmail.com)
